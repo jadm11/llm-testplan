@@ -28,7 +28,7 @@ An AI model, promoted as "Reflection 70B," was introduced with claims of superio
 8. **Bias and Desire for Breakthroughs**: Avoid letting personal biases cloud judgment.
 9. **Scammers Targeting Niche Areas**: Be diligent in vetting niche AI technologies before adopting them.
 
-# Where is the test plan?
+## Where is the test plan?
 ## Test Plan Overview
 This QA test plan aims to ensure thorough validation of LLMs by covering model architecture, performance benchmarks, API consistency, and contamination checks. It applies to both deployment and API-delivered models.
 
