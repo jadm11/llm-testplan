@@ -96,5 +96,6 @@ The plan includes testing on:
 - **API Validation Report**: Summary of API performance and any deviations from expected behavior.
 
 # How well does the test plan cover the key lessons?
+![Coverage Map](https://github.com/jadm11/llm-testplan/blob/main/coverage-map.png)
 
 ---
