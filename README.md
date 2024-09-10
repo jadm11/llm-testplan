@@ -1,5 +1,7 @@
 # LLM QA Test Plan: Reflection 70B Case Study
 
+LinkedIn Article: https://www.linkedin.com/pulse/reflections-reflection-70b-sample-test-plan-jacob-adm-8paze/
+
 I used the following sources to query, summarize, find key lessons, mine for test cases, and create a sample test plan based on the Reflection 70B event. With my guidance, ChatGPT 4.0 generated the outputs of this article.
 
 ## Sources:
