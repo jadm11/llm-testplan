@@ -18,15 +18,15 @@ I used the following sources to query, summarize, find key lessons, mine for tes
 An AI model, promoted as "Reflection 70B," was introduced with claims of superior performance and a novel "Reflection Tuning" technique. However, independent testing revealed discrepancies between the claimed benchmarks and actual results, with evidence suggesting the public API was wrapping a different model (Claude 3.5) rather than the advertised Llama 3.1. Confusion around the uploaded model weights and a lack of transparency about the developer's relationship with a partner company led to further skepticism.
 
 ## What are the key lessons identified by the community?
-1. **Model Identification**: Always confirm which model you are working with (e.g., LLAMA, GPT-4, Sonnet), as models can be misrepresented.
-2. **Trust but Verify**: Do not trust any benchmarks unless you can replicate them. Always perform independent tests.
-3. **API Misrepresentation**: Be cautious with APIs and ensure they match the author's claims.
-4. **Benchmark Credibility**: Use benchmarks based on practical use cases relevant to your needs.
-5. **Scammers and Misinformation**: There are scams in the AI community; be skeptical of exaggerated claims.
-6. **Zero Trust Approach**: Adopt a zero-trust mentality and verify everything.
-7. **Real-World Testing**: Include real-world scenarios to ensure accuracy and relevance.
-8. **Bias and Desire for Breakthroughs**: Avoid letting personal biases cloud judgment.
-9. **Scammers Targeting Niche Areas**: Be diligent in vetting niche AI technologies before adopting them.
+1. **Model Identification**: Always begin by confirming which model (e.g., LLAMA, GPT-4, Sonnet) you are working with, as models can sometimes be misrepresented.
+2. **Trust but Verify**: Do not trust any benchmarks unless you can replicate them yourself. This is especially true for claims regarding model performance and results.
+3. **API Misrepresentation**: Be cautious with APIs, as they may not correspond to the model that is being claimed. Always verify that the model matches the author's description.
+4. **Benchmark Credibility**: Benchmarks should be based on practical use cases relevant to your own needs. Having personal benchmarks helps avoid falling for the hype surrounding new models.
+5. **Scammers and Misinformation**: There are scams and misinformation in AI development communities, particularly around fine-tuned models. Some individuals falsely claim breakthroughs to gain attention or investment. Be wary of such claims and rely on reproducible results.
+6. **Zero Trust Approach**: In this era, a zero-trust mentality is essential. Verify everything, from model integrity to benchmark results, and avoid taking any claims at face value.
+7. **Real-World Testing**: Testing should include real-world applications, comparing results against known models to ensure accuracy and relevancy to your tasks.
+8. **Bias and Desire for Breakthroughs**: Be mindful of personal biases that make you want to believe in groundbreaking improvements. Recognize that revolutionary breakthroughs are often overstated.
+9. **Scammers Targeting Niche Areas**: Even in niche technical fields like AI, scammers are present. Be diligent in vetting claims and technologies before adopting them.
 
 ## Where is the test plan?
 ## Test Plan Overview
